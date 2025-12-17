@@ -16,4 +16,4 @@ for(let i=1;i<=100;i++){
 		str = str + i + " ";
 	}
 }
-answer.innerText(str);
+answer.innerText=str;
